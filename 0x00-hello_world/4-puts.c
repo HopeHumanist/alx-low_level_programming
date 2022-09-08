@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ *main - Begins here
+ *
+ *Return: 0
+*/
 int main(void)
 {
 	puts("\"
