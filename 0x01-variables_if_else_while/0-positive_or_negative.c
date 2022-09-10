@@ -3,12 +3,12 @@
 #include <stdio.h>
 
 /**
- *  * main - entry point
- *   *
- *    * Description: prints whether random # is + or -
- *     *
- *      * Return: Always 0 (Success)
- *       */
+ * main - entry point
+ *
+ * Description: prints whether random # is + or -
+ * 
+ * Return: Always 0 (Success)
+ */      
 int main(void)
 {
 	int n;
@@ -22,5 +22,5 @@ int main(void)
 		printf("%i is positive\n", n);
 	else
 		printf("%i is zero\n", n);
-	return 0;
+	return (0);
 }
