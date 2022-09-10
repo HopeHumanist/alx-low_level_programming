@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - entry point
+/**
+ * main - Entry point
  *
  * Description: prints the last digit of random number
  *
