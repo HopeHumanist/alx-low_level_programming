@@ -3,12 +3,12 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main-entry point
  *
- * Description: prints whether random # is + or -
+ * Description:prints whether random # is + or -
  * 
- * Return: Always 0 (Success)
- */      
+ * Return:Always 0(Success)
+ */ 
 int main(void)
 {
 	int n;
