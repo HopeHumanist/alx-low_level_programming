@@ -2,6 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
+/*
+ * main - entry point
+ *
+ * Description: prints the last digit of random number
+ *
+ * Return: Always 0 (Success)
+ * 
+ */ 
 int main(void)
 {
 	int n;
