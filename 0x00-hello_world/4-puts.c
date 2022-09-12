@@ -1,16 +1,15 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 /**
- * main - Begins here
+ * main - The entry point
  *
- * Description: Prints PGmming 
+ * Description: Prints text using the puts
  *
- *Return: 0
+ * Return:Always 0 (Success)
  */
+
 int main(void)
 {
 	puts("\"
 Programming is like building a multi lingual puzzle");
-	return(0);
+	return (0);
 }
