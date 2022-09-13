@@ -1,17 +1,22 @@
-#include <stdlib.h>
-#include <stdio.h>
-#include <main.h>
+#include "main.h"
+
 /**
- * main - on your marks
+ * main - lets begin
  *
- * Description: Prints _putchar then new line
+ * Return: 0 (Bazinga)
  *
- * Return: 0 (Eurika)
  */
 
 int main(void)
 {
-	printf("_putchar\n");
-
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
