@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * main - Hajime
+ * print_alphabet - ikizo
  *
  * Description: prints the alpha in lowercase
  *
  * Return: 0 (Baga)
  */
 
-int main(void)
+void print_alphabet(void)
 {
 	char low;
 
 	for (low = 'a'; low <= 'z'; low++)
 		_putchar(low);
-	
-	return (0);
+	_putchar('\n');	
+
+	return;
 }
