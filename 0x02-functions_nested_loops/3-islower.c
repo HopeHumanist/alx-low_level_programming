@@ -1,10 +1,10 @@
 #include "main.h"
 
-/** int _islower(int c) - Ikizo
+/**
+ * _islower - checks for lower case char
+ * @c: - char to be checked
  *
- * Description: checks for lower case char
- *
- * Return: 1 if lowercase or 0 if anything else
+ * Return: 1 lowercase or 0 if anyother
  */
 
 int _islower(int c)
