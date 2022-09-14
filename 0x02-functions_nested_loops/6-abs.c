@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
 
 /**
  * _abs - ikizo
@@ -12,8 +11,8 @@
 
 int _abs(int h)
 {
-	if (h > 0)
-		return (0);
+	if (h < 0)
+		return (h * -1);
 	else
-		return (abs(h));
+		return (h);
 }
