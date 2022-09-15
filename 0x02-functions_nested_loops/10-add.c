@@ -6,7 +6,7 @@
  *
  * description: adds two numbers
  *
- * Return: 0 (Boom) 
+ * Return: 0 (Boom)
  */
 
 int add(int a, int b)
