@@ -13,7 +13,6 @@ void jack_bauer(void)
 	for (h = 0; k < 24; k++)
 	{
 		for (k = 0; k < 60; k++)
-		{
 			_putchar(h / 10 + '0');
 			_putchar(h % 10 + '0');
 			_putchar(':');
@@ -21,6 +20,6 @@ void jack_bauer(void)
 			_putchar(k % 10 + '0');
 			_putchar(':');
 			_putchar('\n');
-		}
+		
 	}
 }
