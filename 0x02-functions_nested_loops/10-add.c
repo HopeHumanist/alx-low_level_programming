@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * add - hajime
- * @a - int # 1
- * @b - int # 2
+ * @a: int # 1
+ * @b: int # 2
  *
  * description: adds two numbers
  *
