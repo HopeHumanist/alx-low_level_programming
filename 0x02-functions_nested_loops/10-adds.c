@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * int add - hajime
- * @a - integer to be added
- * @b - integer to be added
+ * add - hajime
+ * @a - int # 1
+ * @b - int # 2
  *
  * description: adds two numbers
  *
- * Return: addition value
+ * Return: 0 (Boom) 
  */
 
 int add(int a, int b)
