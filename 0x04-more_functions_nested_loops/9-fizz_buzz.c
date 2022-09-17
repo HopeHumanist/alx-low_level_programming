@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - the entry
+ * main - prints numbers 1 to 100
  *
  * Description: prints fizz, buzz & fizzbuzz
  *
@@ -37,6 +37,7 @@ int main(void)
 		}
 	}
 	pritnf("\n");
+
 	return (0);
 }
 
