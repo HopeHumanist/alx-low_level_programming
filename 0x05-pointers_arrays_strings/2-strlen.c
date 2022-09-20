@@ -3,14 +3,15 @@
 /**
  * _strlen - Pakwambila
  * @s: string
- * Return: C (Eurika)
+ * Return: j (Eurika)
  */
 
 int _strlen(char *s)
 {
-	int C
+	int j;
 
-	for (C = 0; s[C] != '\0'; C++);
+	for (j = 0; s[j] != '\0';)
+		j++;
 
-	return (C);
+	return (j);
 }
