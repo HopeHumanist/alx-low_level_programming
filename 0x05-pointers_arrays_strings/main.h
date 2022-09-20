@@ -9,5 +9,7 @@ void _puts(char *str);
 
 
 
-void _puts2(char *str);
+void puts2(char *str);
+
+
 #endif

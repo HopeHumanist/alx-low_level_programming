@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - Olo
+ * puts2 - Olo
  * @str: input
  * Return: string
  */
