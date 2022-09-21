@@ -3,23 +3,23 @@
 /**
  * rev_string - Ikizo
  * @s: input
- * Return:;reverrsed string
+ * Return: 0 (BoomBaby)
  */
 
 void rev_string(char *s)
 {
-	int i, h;
-	char j;
+	int i, j, k;
+	char h;
 
 	for (i = 0; s[i] != '\0'; i++)
-		;
-
-
-	for (h = 0; h < 1 / 2; h++)
 	{
-		j = s(h);
-		s[j] = s[i - 1 - h];
-
-		s[i - 1 - h] = j;
+		;
+	}
+	k = i;
+	for (i--; j = 0; j < k / 2; i--, j++)
+	{
+		h = s(j);
+		s[j] = s[i];
+		s[i] = h;
 	}
 }
