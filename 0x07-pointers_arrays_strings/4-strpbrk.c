@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _strpbrk - Boomer
  * @s: input
@@ -9,7 +9,7 @@
 
 char *_strpbrk(char *s, char *accept)
 {
-	int = i;
+	int i;
 
 	while (*s)
 	{
