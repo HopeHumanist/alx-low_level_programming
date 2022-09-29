@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * factorial - Ikizo
+ * factorial - Intro
  * @n: input
  * Return: result
  */
 
-int factoria (int n)
+int factorial(int n)
 {
 	int result = n;
 
